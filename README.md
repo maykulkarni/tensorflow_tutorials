@@ -7,3 +7,5 @@
 3. [Linear Regression using GradientDescentOptimizer](http://nbviewer.jupyter.org/github/maykulkarni/tensorflow_tutorials/blob/master/3.%20Simple%20Regression.ipynb)
 
 4. [LinearRegressor and DNNClassifier (Estimator API)](http://nbviewer.jupyter.org/github/maykulkarni/tensorflow_tutorials/blob/master/4.%20LinearRegressor%20and%20DNNClassifier%20(Estimator%20API).ipynb)
+
+5. 
